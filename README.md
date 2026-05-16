@@ -2,7 +2,7 @@
 
 I am a Professor of Informatics and Interim Director of the Informatics Division in the Department of Biostatistics, Epidemiology and Informatics at the Perelman School of Medicine, University of Pennsylvania.
 
-I also hold secondary appointments in Radiology at Penn Medicine and Computer and Information Science at Penn Engineering. My graduate group affiliations include Applied Math and Computational Science, Bioengineering, Cell and Molecular Biology, Computer and Information Science, Epidemiology and Biostatistics, Genomics and Computational Biology, and Neuroscience.
+I also hold appointments in Radiology at Penn Medicine and Computer and Information Science at Penn Engineering. My graduate group affiliations include Applied Math and Computational Science, Bioengineering, Cell and Molecular Biology, Computer and Information Science, Epidemiology and Biostatistics, Genomics and Computational Biology, and Neuroscience.
 
 My research focuses on AI, machine learning, biomedical and health informatics, NLP/LLMs, medical image computing, network science, multi-omics, and systems biology, with applications across complex disorders. I am especially interested in developing advanced AI/ML/informatics methods for large-scale biobank and health datasets to advance understanding, early detection, treatment, prevention, and care delivery.
 
